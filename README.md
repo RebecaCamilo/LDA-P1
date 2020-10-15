@@ -1,2 +1,2 @@
-# LDA-P1
+# LDA P1
 Laboratório de Desenvolvimento de Algoritmo
